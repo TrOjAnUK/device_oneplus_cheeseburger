@@ -12,7 +12,7 @@
   {
     "repository": "BigTopKrazies/vendor_oneplus",
     "target_path": "vendor/oneplus",
-    "branch": "test"
+    "branch": "n7.1"
   },
   {
     "repository": "SlimRoms/vendor_nxp-nfc_opensource_frameworks",
